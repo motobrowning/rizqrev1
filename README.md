@@ -1,0 +1,2 @@
+# rizq
+Rizq Payment Gateways
